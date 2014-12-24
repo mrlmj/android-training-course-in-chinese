@@ -2,24 +2,24 @@
 
 > 编写:[kesenhoo](https://github.com/kesenhoo) - 原文:<http://developer.android.com/training/best-ux.html>
 
-These classes focus on the best Android user experience for your app. In some cases, the success of your app on Android is heavily affected by whether your app conforms to the user's expectations for UI and navigation on an Android device. Follow these recommendations to ensure that your app looks and behaves in a way that satisfies Android users.
+这一系列课程关注安卓应用的最佳用户体验。在某些情况下，一个安卓应用的成功取决于它是否符合用户对UI和导航的期望。遵循这些推荐的规范可以确保你的应用在外观和交互行为上能够满足安卓用户。
 
-#### [Designing Effective Navigation](ux/design-nav/index.html)
+#### [设计高效的导航](ux/design-nav/index.html)
 
-How to plan your app's screen hierarchy and forms of navigation so users can effectively and intuitively traverse your app content using various navigation patterns.
+如何设计app的层次和导航的形式，使得用户能通过不同的导航模式高效直观地切换浏览app的内容。
 
-#### [Implementing Effective Navigation](ux/implement-nav/index.html)
+#### [实现高效的导航](ux/implement-nav/index.html)
 
-How to implement various navigation patterns such as swipe views, a navigation drawer, and up navigation.
+如何实现多种导航模式，比如：滑动屏幕切换视图，从左侧滑出导航，和向上（前）导航。
 
-#### [Notifying the User](ux/notify-user/index.html)
+#### [通知提示用户](ux/notify-user/index.html)
 
-How to display messages called notifications outside of your application's UI.
+如何在你的应用界面之外提示通知一类的信息。
 
-#### [Adding Search Functionality](ux/search/index.html)
+#### [增加搜索功能](ux/search/index.html)
 
-How to properly add a search interface to your app and create a searchable database.
+如何给你的app适当地添加搜索接口并且创建一个可搜索的数据库
 
-### [Making Your App Content Searchable by Google](ux/app-indexing/index.html)
+### [使得你的App内容可被Google搜索](ux/app-indexing/index.html)
 
-How to enable deep linking and indexing of your application content so that users can open this content directly from their mobile search results.
+如何启用深度链接和应用的内容索引，使得用户能从手机搜索结果中直接打开这个内容
